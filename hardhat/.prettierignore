@@ -1,8 +1,0 @@
-node_modules
-build
-typechain
-
-#Hardhat files
-cache
-artifacts
-factories
